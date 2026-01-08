@@ -95,8 +95,14 @@ Brand assets such as stickers, stencils, and graphics are available on the offic
 ---
 
 ## Official Links
-- **Website:** https://67coin.com  
-- **X (Twitter):** https://x.com/67coinX  
-- **X Community:** https://x.com/i/communities/  
-- **CoinMarketCap:** https://coinmarketcap.com/currencies/the-official-67-coin-onchain  
-- **Dexscreener:** https://dexscreener.com/solana/dmafl613xtipua3jfnyczavwt7xsiyf9cr3qmrmzqhb
+
+[![🌐 Website](https://img.shields.io/badge/Website-67coin.com-blue)](https://67coin.com)
+[![📊 CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-67%20Coin-brightgreen)](https://coinmarketcap.com/currencies/the-official-67-coin-onchain)
+[![📈 CoinGecko](https://img.shields.io/badge/CoinGecko-The%20Official%2067%20Coin-green)](https://www.coingecko.com/en/coins/the-official-67-coin)
+
+[![🐦 X](https://img.shields.io/badge/X-@67coinX-black?logo=x)](https://x.com/67coinX)
+[![👥 X Community](https://img.shields.io/badge/X%20Community-Join-blue)](https://x.com/i/communities/)
+[![💬 Telegram](https://img.shields.io/badge/Telegram-TheOfficial67Coin-blue?logo=telegram)](https://t.me/TheOfficial67Coin)
+
+[![📺 YouTube](https://img.shields.io/badge/YouTube-67to67Billion-red?logo=youtube)](https://www.youtube.com/@67to67Billion)
+[![🎵 TikTok](https://img.shields.io/badge/TikTok-67coin-black?logo=tiktok)](https://www.tiktok.com/@67coin)
