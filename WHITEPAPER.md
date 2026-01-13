@@ -1,4 +1,15 @@
-![photo_2026-01-08_23-40-47](https://github.com/user-attachments/assets/870f2392-ffea-4040-9c07-67e40068c76d)
+![Banner](./banner.png)
+
+<p align="center">
+  <img src="logo.png" alt="67 Coin Logo" width="300"/>
+</p>
+
+<p align="center">
+  <strong>67: A Meme. A Word. A Coin.</strong><br>
+  <strong>A Decentralized Movement Taking Over the World</strong>
+</p>
+
+---
 # The Official 67 Coin ($67) – Whitepaper
 
 ## Summary
