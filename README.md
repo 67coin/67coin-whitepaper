@@ -61,23 +61,18 @@ Always verify the contract from official explorers:
 
 ## 🌐 Official Links
 
-<p align="center">
-  <a href="https://67coin.com">
-    <img src="https://img.shields.io/badge/Website-67coin.com-blue?style=for-the-badge">
-  </a>
-  <a href="https://x.com/67coinX">
-    <img src="https://img.shields.io/badge/X-@67coinX-black?style=for-the-badge&logo=x">
-  </a>
-  <a href="https://t.me/TheOfficial67Coin">
-    <img src="https://img.shields.io/badge/Telegram-TheOfficial67Coin-blue?style=for-the-badge&logo=telegram">
-  </a>
-  <a href="https://tiktok.com/@67coin">
-    <img src="https://img.shields.io/badge/TikTok-67coin-black?style=for-the-badge&logo=tiktok">
-  </a>
-  <a href="https://youtube.com/@67to67Billion">
-    <img src="https://img.shields.io/badge/YouTube-67to67Billion-red?style=for-the-badge&logo=youtube">
-  </a>
-</p>
+[![🌐 Website](https://img.shields.io/badge/Website-67coin.com-blue)](https://67coin.com)
+[![📊 CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-67%20Coin-brightgreen)](https://coinmarketcap.com/currencies/the-official-67-coin-onchain)
+[![📈 CoinGecko](https://img.shields.io/badge/CoinGecko-The%20Official%2067%20Coin-green)](https://www.coingecko.com/en/coins/the-official-67-coin)
+
+[![🐦 X](https://img.shields.io/badge/X-@67coinX-black?logo=x)](https://x.com/67coinX)
+[![👥 X Community](https://img.shields.io/badge/X%20Community-Join-blue)](https://x.com/i/communities/)
+[![💬 Telegram](https://img.shields.io/badge/Telegram-TheOfficial67Coin-blue?logo=telegram)](https://t.me/TheOfficial67Coin)
+[![🎮 Discord](https://img.shields.io/badge/Discord-67%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/67community)
+
+[![📺 YouTube](https://img.shields.io/badge/YouTube-67to67Billion-red?logo=youtube)](https://www.youtube.com/@67to67Billion)
+[![🎵 TikTok](https://img.shields.io/badge/TikTok-67coin-black?logo=tiktok)](https://www.tiktok.com/@67coin)
+
 
 ---
 
