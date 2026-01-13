@@ -63,8 +63,8 @@ $67 is designed for cultural participation and community engagement.
 ---
 
 ## Supply and Tokenomics
-- **Total Supply:** 999,680  
-- **Max Supply:** 999,680  
+- **Total Supply:** 999,68M  
+- **Max Supply:** 999,68M  
 - **Inflation:** None  
 - **Minting:** No additional minting planned or intended  
 - **Burn Mechanism:** None  
