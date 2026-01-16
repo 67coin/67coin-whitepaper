@@ -39,7 +39,7 @@ and decentralized coordination into a single on-chain asset.
 | Token Name | The Official 67 Coin |
 | Ticker | $67 |
 | Blockchain | Solana (SPL Token) |
-| Total Supply | 999,680M |
+| Total Supply | 999,68M |
 | Launch Date | September 7, 2025 |
 | Launch Type | Fair Launch |
 | Launch Platform | Pump.fun |
